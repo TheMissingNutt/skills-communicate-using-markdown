@@ -1,3 +1,4 @@
-```
-var myVar = "Hello, world!";
-```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] make a to do list
